@@ -1,0 +1,22 @@
+.topDiv{
+    display:flex;
+    margin-left: 10px;
+}
+.headerStyle{
+    margin: 10px;
+    font-weight: bold;
+}
+.buttonStyle{
+    width: 30px;
+    margin: 5px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Counter{
+    margin: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
