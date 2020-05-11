@@ -4,7 +4,6 @@ import Counter from './containers/Counter';
 function App(){
     return (
       <div>
-        Hello1
        <Counter />
       </div>
     );
